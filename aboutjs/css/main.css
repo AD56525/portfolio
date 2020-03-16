@@ -715,7 +715,7 @@ transform: translateY(5px);
 
 	.mobile-swipee.menu-active {
 		visibility: visible;
-		opacity: 1;
+		opacity: .6;
 	display: flex;
 	}
 }
